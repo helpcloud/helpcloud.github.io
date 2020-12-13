@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: HelpCloud
 description: HelpCloud GssCloud.
-show_downloads: true
-github:
-  zip_url: http://example.com/downl
-  another_url: downl
+
+
