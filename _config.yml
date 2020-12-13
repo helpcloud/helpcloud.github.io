@@ -3,5 +3,5 @@ title: HelpCloud
 description: HelpCloud GssCloud.
 show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
+  url: http://example.com/
   another_url: another value
