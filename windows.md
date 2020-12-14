@@ -18,3 +18,5 @@
 5、选择模式 PAC 或 Global
 
 6、连接 - connect
+
+## 切记：不使用时，点 stop
