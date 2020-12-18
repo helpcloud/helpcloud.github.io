@@ -4,12 +4,12 @@
 ---
 ### Apple mac
 
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/01.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/02.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/03.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/04.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/05.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/06.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/07.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/08.png)
-![mac](https://raw.githubusercontent.com/helpcloud/helpcloud.github.io/main/09.png)
+![mac](https://d.gss.me.uk/img/01.png)
+![mac](https://d.gss.me.uk/img/02.png)
+![mac](https://d.gss.me.uk/img/03.png)
+![mac](https://d.gss.me.uk/img/04.png)
+![mac](https://d.gss.me.uk/img/05.png)
+![mac](https://d.gss.me.uk/img/06.png)
+![mac](https://d.gss.me.uk/img/07.png)
+![mac](https://d.gss.me.uk/img/08.png)
+![mac](https://d.gss.me.uk/img/09.png)
